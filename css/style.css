@@ -46,15 +46,16 @@ h1 {
 
 #skills {
   background-image: url('../images/skills.jpg');
+  filter: brightness(100%);
   background-size: cover;
   color: white; 
 }
 
 #project {
   background-color: #000000;
-  background-image: linear-gradient(43deg, #000000 0%, #3f3f3f 46%, #7d7d7d 100%);
-   
-  color: white
+  background-image: linear-gradient(45deg, #000000 0%, #005588 100%);
+  
+  color: white;
 }
 
 #hobby {
